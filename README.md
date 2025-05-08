@@ -6,7 +6,7 @@ Step into a new dimension of gameplay with **Easy Cheat** — the all-in-one, ul
 
 Whether you're testing, exploring, or pushing boundaries, this client gives you all the tools you need — with **no installation**, **no registration**, and just **1MB** of disk space.
 
-👉 [Download the Latest Version](https://github.com/YourUsername/easy-cheat/releases/latest)
+
 
 ---
 
